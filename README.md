@@ -1,2 +1,11 @@
-# ml-ai-projects
-Machine Learning and AI projects for university assignments and training exercises
+# ML & AI Learning Projects
+**Category:** Learning / University Projects
+
+This repository contains multiple ML and AI projects for learning and training purposes.
+
+## Projects
+
+### 1. student-exam-predictor
+**Goal:** Predict student grades using ML  
+**Tech:** Python, Pandas, Scikit-learn  
+**Status:** Completed
