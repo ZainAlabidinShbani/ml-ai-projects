@@ -1,0 +1,7 @@
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\obj\x86\Debug\BayesianAnalyzer.Properties.Resources.resources
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\obj\x86\Debug\BayesianAnalyzer.csproj.GenerateResource.Cache
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\bin\Debug\BayesianAnalyzer.exe
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\bin\Debug\BayesianAnalyzer.pdb
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\obj\x86\Debug\BayesianAnalyzer.exe
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\obj\x86\Debug\BayesianAnalyzer.pdb
+F:\University\fifth year\semester 2\Machine Learning\Project\BayesianAnalyzer\BayesianAnalyzer\obj\x86\Debug\BayesianAnalyzer.csprojResolveAssemblyReference.cache
