@@ -25,3 +25,11 @@ Goal: Desktop tool for Bayesian medical risk estimation with training, analytics
 Tech: C#, Windows Forms.
 Status: Completed.
 Details: See [Bayesian_Medical_Risk_Analyzer](Bayesian_Medical_Risk_Analyzer) and the project [README](Bayesian_Medical_Risk_Analyzer/README.md).
+
+### 4. Student_Posture_Analysis
+
+Goal: Deep learning computer vision system for student posture classification and exam cheating behavior detection.
+Tech: Python, TensorFlow, Keras, MobileNetV2, Scikit-learn, Matplotlib, Seaborn.
+Status: Completed.
+Details: See [Student_Posture_Analysis](Student_Posture_Analysis) and the project [README](Student_Posture_Analysis/README.md).
+

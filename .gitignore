@@ -1,0 +1,31 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Large archives (>100MB exceeds GitHub hard limit)
+*.rar
+*.zip
+*.7z
+*.tar.gz
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# IDEs & Editors
+.vscode/
+.idea/

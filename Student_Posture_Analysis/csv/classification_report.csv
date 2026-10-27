@@ -1,0 +1,9 @@
+Class,Precision,Recall,F1_Score,Support
+leaning to copy,0.0,0.0,0.0,12
+looking around,0.39,1.0,0.56,136
+normal,0.0,0.0,0.0,135
+sharing answers,0.0,0.0,0.0,62
+using mobile,0.0,0.0,0.0,7
+Accuracy,,,0.39,352
+Macro Avg,0.08,0.2,0.11,352
+Weighted Avg,0.15,0.39,0.22,352
